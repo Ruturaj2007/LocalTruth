@@ -51,7 +51,8 @@ LocalTruth is a modern web application powered by AI for detecting, analyzing, a
 
 1. **Clone & Install**
    ```bash
-   cd '/Users/ruturajmahendrakar/Desktop/Other/SNW Practice/Local Truth'
+   git clone https://github.com/HardikWahi07/LocalTruth.git
+   cd LocalTruth
    npm install
    ```
 
